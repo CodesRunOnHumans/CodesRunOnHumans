@@ -1,11 +1,11 @@
 # CodesRunOnHumans
 
-`Codes Run On Humans` (`CROH`) allows you to develop programs that runs on human beings!
+`Codes Run On Humans` (`CROH`) allows you to develop programs that run on human beings!
 
 ## Features
 ### Naturally Wide Compatibility
 
-Codes of `CROH` will run in the brains of any viewers involuntarily... who know the languages in which the codes are write.
+Codes of `CROH` will run in the brains of any viewers involuntarily... who know the languages that the codes are write in.
 
 And, even yours... Try running this line:
 
@@ -21,7 +21,7 @@ That's OK, and now you have, at least in your brain.
 
 `CROH` doesn't require a strict syntax.
 
-The following codes can all be understood by most human beings.
+The following codes can all be run by most human beings.
 
 ```
 < calculate "one plus one".
@@ -35,11 +35,11 @@ The following codes can all be understood by most human beings.
 
 ### Various Results
 
-Although they're running the same code of `CROH`, different human beings will produce different results.
+Different human beings will produce different results, although they're might running the same code of `CROH`.
 
-The same human beings can also produce different results when running the same code at different time point.
+The same human beings can also produce different results of the same code at different time point.
 
-This can create infinite possibilities, which is a great innovation in programing.
+This feature can create infinite possibilities, which is a great innovation in programing.
 
 e.g.
 ```
