@@ -39,7 +39,7 @@ Different human beings will produce different results, although they're might ru
 
 The same human beings can also produce different results of the same code at different time point.
 
-This feature can create infinite possibilities, which is a great innovation in programing.
+This feature brings infinite possibilities, which is a great innovation in programing.
 
 e.g.
 ```
@@ -50,3 +50,24 @@ e.g.
 > Who coded this?
 > Why am I answering this question?
 ```
+
+## Getting Started
+
+`CROH` is quite easy to use.
+
+All the things you should do are:
+
+1. Open your favorite editor.
+2. Write some codes with the flexible syntax.
+3. Save your codes.
+4. Show the codes to any human beings.
+
+## I18N
+
+Internationalization is an important part of `CROH` since human beings can only run the codes that they have learnt.
+
+We are currently in bad need of cross-language dictionaryies as Internationalization Packages.
+
+## Ending
+
+Is a person a calculating machine?
