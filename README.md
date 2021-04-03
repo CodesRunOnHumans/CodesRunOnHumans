@@ -10,8 +10,9 @@ All the things you should do are:
 
 1. Open your favorite editor.
 2. Write some codes with the flexible syntax.
-3. Save your codes.
-4. Let any human being to run the codes.
+3. Save your codes. We suggest `croh` as the files' extension.
+4. Compile the codes to human executable formats by the compilers, such as [`Croher`](https://github.com/CodesRunOnHumans/Croher/wiki).
+5. Let any human being to run it.
 
 ## Features
 ### Naturally Wide Compatibility
@@ -20,7 +21,7 @@ Codes of `CROH` will run in the brains of any viewers involuntarily... who know 
 
 And, even yours... Try running this line:
 
-```
+```codesrunonhumans
 < say "hello world".
 ```
 
@@ -34,12 +35,12 @@ That's OK, and now you have, at least in your brain.
 
 The following codes can all be run by most human beings.
 
-```
-< calculate "one plus one".
-< what is one plus one?
-< whatt iss onee pluss onee?
-< 1 add 1?
-< 1 + 1?
+```codesrunonhumans
+calculate "one plus one".
+what is one plus one?
+whatt iss onee pluss onee?
+1 add 1?
+1 + 1?
 ```
 
 ### Various Results
@@ -50,8 +51,9 @@ The same human beings can also produce different results of the same code at dif
 
 This feature brings infinite possibilities, which is a great innovation in programing.
 
-e.g.
-```
+For example, the result of `1 + 1` might be (but not limited to):
+
+```codesrunonhumans
 > 2.
 > 2?
 > It must be 3.
