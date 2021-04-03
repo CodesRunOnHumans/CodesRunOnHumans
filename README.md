@@ -14,7 +14,7 @@ All the things you should do are:
 4. Compile the codes to human executable formats by the compilers, such as [`Croher`](https://github.com/CodesRunOnHumans/Croher/wiki).
 5. Let a human being to run it.
 
-> You can skip the step 4 because `CROH` interpreters are built into most all the human beings.
+> You can skip the step 4 because `CROH` interpreters are built into almost all the human beings.
 
 ## Features
 ### Naturally Wide Compatibility
