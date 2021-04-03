@@ -12,22 +12,20 @@ All the things you should do are:
 2. Write some codes with the flexible syntax.
 3. Save your codes. We suggest `croh` as the files' extension.
 4. Compile the codes to human executable formats by the compilers, such as [`Croher`](https://github.com/CodesRunOnHumans/Croher/wiki).
-5. Let any human being to run it.
+5. Let a human being to run it.
+
+> You can skip the step 4 because `CROH` interpreters are built in for most all the human beings.
 
 ## Features
 ### Naturally Wide Compatibility
 
-Codes of `CROH` will run in the brains of any viewers involuntarily... who know the languages that the codes are write in.
+Codes of `CROH` will run in the brains of anyone that knows the languages that the codes are written in.
 
 And, even yours... Try running this line:
 
 ```codesrunonhumans
-< say "hello world".
+say "hello world".
 ```
-
-Um... Haven't you say `hello world` when seeing the former example?
-
-That's OK, and now you have, at least in your brain.
 
 ### Flexible Syntax
 
@@ -47,7 +45,7 @@ whatt iss onee pluss onee?
 
 Different human beings will produce different results, although they're might running the same code of `CROH`.
 
-The same human beings can also produce different results of the same code at different time point.
+The same human beings can also produce different results at different time point.
 
 This feature brings infinite possibilities, which is a great innovation in programing.
 
@@ -70,7 +68,3 @@ Unlike other traditional languages, `CROH` doesn't have the system of exceptions
 Internationalization is an important part of `CROH` since human beings can only run the codes in the languages that they have learnt.
 
 We are currently in bad need of cross-language dictionaryies as internationalization support.
-
-## Ending
-
-Is a person a calculating machine?
