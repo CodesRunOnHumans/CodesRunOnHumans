@@ -60,7 +60,7 @@ For example, the result of `1 + 1` might be:
 
 ### No Exceptions
 
-Unlike other traditional languages, `Croh` doesn't have a exception system.
+Unlike other traditional languages, `Croh` doesn't have an exception system.
 
 That's because we don't need one. In fact, for `Croh`, nothing goes with exception and nothing goes without exception.
 
