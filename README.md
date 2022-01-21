@@ -11,7 +11,7 @@ All the things you should do are:
 1. Open your favorite editor;
 2. Write some codes with the flexible but recognizable syntax;
 3. Save your codes (we suggest `croh` as the extension name);
-4. Compile the codes to any human executable format by the compilers, such as [`Croher`](https://github.com/CodesRunOnHumans/Croher/wiki);
+4. Compile the codes to any human executable format by the compilers, such as [`HCroher`](https://github.com/CodesRunOnHumans/HCroher) and [`Croher`](https://github.com/CodesRunOnHumans/Croher/wiki);
 5. Find a human being to run it.
 
 > You may skip the step 4 because there're usually built-in `Croh` interpreters on almost all the human beings.
