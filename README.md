@@ -14,7 +14,8 @@ All the things you should do are:
 4. Compile the codes to any human executable format by the compilers, such as [`HCroher`](https://github.com/CodesRunOnHumans/HCroher) and [`Croher`](https://github.com/CodesRunOnHumans/Croher/wiki);
 5. Find a human being to run it.
 
-> You may skip the step 4 because there're usually built-in `Croh` interpreters on almost all the human beings.
+> The fourth step might be skipped since there are usually built-in `Croh` interpreters on almost all the human beings.
+> You know what? Without reading the above content, just run the example [`WritingACrohProgram.croh`](./Examples/WritingACrohProgram.croh) by yourself, and you will have a `Croh` program.
 
 ## Features
 ### Naturally Wide Compatibility

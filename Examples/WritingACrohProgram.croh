@@ -1,0 +1,9 @@
+To have a Croh program, you should:
+1. Open your favorite editor;
+2. Write some codes with Croh's flexible but recognizable syntax;
+3. Save your codes (we suggest 'croh' as the extension name);
+4. Compile the codes to any human executable format by the compilers, such as HCroher and Croher;
+5. Find a human being to run it.
+(The fourth step might be skipped since there are usually built-in Croh interpreters on almost all the human beings.)
+
+Now try writing a croh program yourself!
