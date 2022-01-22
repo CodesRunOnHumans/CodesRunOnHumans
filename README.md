@@ -16,7 +16,7 @@ All the things you should do are:
 
 > The fourth step might be skipped since there are usually built-in `Croh` interpreters on almost all the human beings.
 
-> You know what? Without reading the above content, just run the example [`WritingACrohProgram.croh`](./Examples/WritingACrohProgram.croh) by yourself, and you will have a satisfying `Croh` program.
+> You know what? Without reading the above content, just run [`WritingACrohProgram.croh`](./examples/writing%20a%20croh%20program.croh) by yourself, and you will have a satisfying `Croh` program.
 
 ## Features
 ### Naturally Wide Compatibility
