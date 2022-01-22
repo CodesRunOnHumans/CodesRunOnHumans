@@ -62,9 +62,17 @@ For example, the result of `1 + 1` might be:
 
 ### No Exceptions
 
-Unlike other traditional languages, `Croh` doesn't have an exception system.
+Unlike other traditional languages, `Croh` doesn't have any exception systems.
 
-That's because we don't need one. In fact, for `Croh`, nothing goes with exception and nothing goes without exception.
+In fact, in `Croh`, nothing goes with exception and nothing goes without exception.
+
+### No Infinite Loops
+
+There won't be any infinite loops or recursions in `Croh`.
+
+If you find it hard to figure out a condition for ending a loop, just let it be a infinite loop in the code, and the human beings who run the code will automatically end it.
+
+> Try running [`looping.croh`](./examples/looping.croh) yourself and you will have a better understand to this feature.
 
 ## I18N
 
