@@ -26,7 +26,7 @@ Codes of `Croh` will run in the brains of anyone that knows the languages that t
 And, even yours... Try running this line:
 
 ```croh
-say "hello world".
+say "hello world!"
 ```
 
 ### Flexible Syntax
@@ -57,7 +57,7 @@ For example, the result of `1 + 1` might be:
 > 2?
 > It must be 3.
 > Who coded this?
-> Why am I asked the stupid question?
+> Who asked the stupid question?
 ```
 
 ### No Exceptions
