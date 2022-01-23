@@ -34,7 +34,7 @@ say "hello world!"
 
 ### Flexible Syntax
 
-`Croh` doesn't require a strict syntax and supports natural languages as the codes.
+`Croh` doesn't require a strict syntax: It even supports natural languages as the codes.
 
 The following codes can all be run on almost all human beings who knows a little about English.
 
