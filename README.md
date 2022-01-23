@@ -16,12 +16,12 @@ All the things you should do are:
 
 > The fourth step might be skipped since there are usually built-in `Croh` interpreters on almost all the human beings.
 
-> You know what? Without reading the above content, just run [`writing-a-croh-program.croh`](./examples/writing-a-croh-program.croh) by yourself, and you will have a satisfying `Croh` program.
+> You know what? Without reading the above content, just execute [`writing-a-croh-program.croh`](./examples/writing-a-croh-program.croh) by yourself, and you will have a satisfying `Croh` program.
 
 ## Features
 ### Naturally Wide Compatibility
 
-Codes of `Croh` will run in the brains of anyone that knows the languages that the codes are written in.
+Codes of `Croh` will run in the brains of any human beings that know the languages that the codes are written in.
 
 And, even yours... Try running this line:
 
@@ -31,7 +31,7 @@ say "hello world!"
 
 ### Flexible Syntax
 
-`Croh` doesn't require a strict syntax.
+`Croh` doesn't require a strict syntax and supports natural languages as the codes.
 
 The following codes can all be run on almost all human beings who knows a little about English.
 
@@ -46,9 +46,7 @@ whatt iss onee pluss onee??
 ### Various Results
 
 Different human beings may produce different results, although the code they're running is totally the
- same, while the same human being can also produce different results at different time.
-
-This feature brings infinite possibilities, which is a great innovation.
+ same. Meanwhile, the same human being can also produce different results at different time.
 
 For example, the result of `1 + 1` might be:
 
@@ -59,6 +57,8 @@ For example, the result of `1 + 1` might be:
 > Who coded this?
 > Who asked the stupid question?
 ```
+
+This feature brings infinite possibilities. What a great innovation!
 
 ### No Exceptions
 
