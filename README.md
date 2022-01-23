@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-`Croh` is quite easy to use.
+It's quite easy to start your `Croh` journey.
 
 All the things you should do are:
 
@@ -31,7 +31,7 @@ say "hello world!"
 
 ### Flexible Syntax
 
-`Croh` doesn't have a strict syntax.
+`Croh` doesn't require a strict syntax.
 
 The following codes can all be run on almost all human beings who knows a little about English.
 
