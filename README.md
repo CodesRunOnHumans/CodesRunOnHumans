@@ -19,6 +19,9 @@ All the things you should do are:
 > You know what? Without reading the above content, just execute [`writing-a-croh-program.croh`](./examples/writing-a-croh-program.croh) by yourself, and you will have a satisfying `Croh` program.
 
 ## Features
+
+Here we listed some exciting features of `Croh` and more is waiting for you to discover.
+
 ### Naturally Wide Compatibility
 
 Codes of `Croh` will run in the brains of any human beings that know the languages that the codes are written in.
