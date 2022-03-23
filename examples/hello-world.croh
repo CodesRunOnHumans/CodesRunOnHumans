@@ -2,7 +2,6 @@ Languages: English, 中文简体
 
 ---[English]---
 
-[English]
 output "hello world!"
 say "hello world!"
 write down "hello world!"
