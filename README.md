@@ -16,7 +16,7 @@ Here are all the things you should do:
 
 > The fourth step might be skipped since there are usually built-in `Croh` interpreters on almost all the human beings.
 
-> You know what? The newest natural intelligence technology is included in `Croh`. Try executing [`writing-a-croh-program.croh`](./examples/writing-a-croh-program.croh) yourself, and there will be a satisfying `Croh` program.
+> You know what? The newest natural intelligence technology has been included in `Croh`. Try executing [`writing-a-croh-program.croh`](./examples/writing-a-croh-program.croh) yourself, and there will be a satisfying `Croh` program.
 
 ## Features
 
